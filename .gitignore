@@ -1,0 +1,28 @@
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Streamlit and logs
+.streamlit/
+logs/
+*.log
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Model and data files
+*.pkl
+*.csv
+
+# IDE settings
+.vscode/
